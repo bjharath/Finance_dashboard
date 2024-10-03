@@ -1,6 +1,6 @@
-## Finance dashboard with Tableau
+# Finance dashboard with Tableau
 
-# Problem statement:
+## Problem statement:
 
 In this project, you will create a comprehensive company finance dashboard using Tableau.
 You have data on revenue, profit/loss, operational insights, expenses, current assets, 
